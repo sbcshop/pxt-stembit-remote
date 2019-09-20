@@ -1,0 +1,21 @@
+{
+    "name": "Stembit-IR",
+    "version": "0.0.0",
+    "description": "Stembit IR extension for Stembit",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "Receiver.cpp",
+        "Receiver.h",
+        "Remote.h",
+        "Transmitter.cpp",
+        "Transmitter.h"
+    ],
+    "public": false
+}
