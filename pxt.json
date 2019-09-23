@@ -3,8 +3,7 @@
     "version": "0.0.0",
     "description": "Stembit IR extension for Stembit",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
