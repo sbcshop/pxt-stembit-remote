@@ -1,6 +1,6 @@
 {
     "name": "Stembit_IR",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Stembit IR extension for Stembit",
     "dependencies": {
         "core": "*"
