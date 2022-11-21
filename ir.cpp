@@ -3,7 +3,7 @@
 #include <vector>
 #include "Receiver.h"
 using namespace pxt;
-typedef vector<Action> vA;
+ typedef vector<Action> vA;
 
 enum class Pins{
   P0=  3,
